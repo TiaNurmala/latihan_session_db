@@ -1,0 +1,69 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.body{
+	margin: 3% 30%;
+	border: solid #EBEBEB 2px;
+	border-radius: 8px;
+	box-shadow: 2px 2px 20px 4px #EBEBEB;
+	padding-bottom: 2%;
+	width: 350px;
+	position: absolute;
+}
+.header{
+	margin: 0;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	padding: 6%;
+	background-color: #57B847;
+	font-family: Roboto;
+	color: #fff;
+	font-size: 16pt;
+	width: 308px;
+}
+#un{
+	border: solid #EBEBEB 1px;
+	border-radius: 17px;
+	background-color: #EBEBEB;
+	color: #000;
+	width: 86%;
+	padding: 2.5% 6%;
+	margin-top: 6%;
+	margin-bottom: 2%;
+	margin-left: 0;
+}
+#pass{
+	border: solid #EBEBEB 1px;
+	border-radius: 17px;
+	background-color: #EBEBEB;
+	color: #000;
+	width: 86%;
+	padding: 2.5% 6%;
+	margin-top: 2%;
+	margin-bottom: 8%;
+}
+#submit{
+	border: solid #57B847 1px;
+	border-radius: 17px;
+	background-color: #57B847;
+	color: #fff;
+	width: 275px;
+	padding: 2.5%;
+	margin-top: 4%;
+	margin-bottom: 8%;
+	font-family: Roboto;
+	font-size: 9pt;
+
+}
+.a{
+	margin-top: 20%;
+	font-size: 10pt;
+	font-family: Ubuntu Font;
+	color: darkgrey;
+}
+.su{
+	color: #57B847;
+	font-size: 9pt;
+	font-family: Roboto;
+}
